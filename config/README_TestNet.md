@@ -45,7 +45,7 @@ CGASx | B:  </br> L:  | CGasx contract hash in Ontology chain
 
 Type | Contract Hash | Desc
 ---|---|---
-CNEO-TEST | B: 0x47e1b8aee4b8ea01a8868d86ed61be50e8f647bb </br> L: bb47f6e850be61ed868d86a801eab8e4aeb8e147 | 
+CNEO | B: 0xc074a05e9dcf0141cbe6b4b3475dd67baf4dcb60 </br> L: 60cb4daf7bd65d47b3b4e6cb4101cf9d5ea074c0 | 
 CGAS | B: 0x74f2dc36a68fdc4682034178eb2220729231db76 </br> L: 76db3192722022eb7841038246dc8fa636dcf274 |
 ETHx | B: 0xd7b32de37ad906df80805c2419ff5560d20f9cbf </br> L: bf9c0fd26055ff19245c8080df06d97ae32db3d7 | Eth asset hash in Neo chain
 BTCx | B: 0x3ee29d5cc82771e91383f9ba09c6f5c5878f3f24 </br> L: 243f8f87c5f5c609baf98313e97127c85c9de23e | BTC asset hash in Neo chain
