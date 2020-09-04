@@ -51,8 +51,8 @@ ETHx | B: 0xd7b32de37ad906df80805c2419ff5560d20f9cbf </br> L: bf9c0fd26055ff1924
 BTCx | B: 0x3ee29d5cc82771e91383f9ba09c6f5c5878f3f24 </br> L: 243f8f87c5f5c609baf98313e97127c85c9de23e | BTC asset hash in Neo chain
 ONTx | B: 0x5a9222225f1bdb135123b74354c7248200c440aa </br> L: aa40c4008224c75443b7235113db1b5f2222925a | ONT asset hash in Neo chain
 ATOMx | B: 0xb25b51d684f7945f7aab43496cb0e87138abdb35 </br> L: 35dbab3871e8b06c4943ab7a5f94f784d6515bb2 | ATOM asset hash in Neo chain
-CCMC | B: 0x82a3401fb9a60db42c6fa2ea2b6d62e872d6257f </br> L: 7f25d672e8626d2beaa26f2cb40da6b91f40a382 | Cross Chain Manager Contract
-Lock Proxy | B: 0x1a921026e23a967b423b5d4bba295be91ab9baa9 </br> L: a9bab91ae95b29ba4b5d3b427b963ae22610921a | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
+CCMC | B: 0x80cd0c6fb005da87b78c54dd03c65ef1447195fa </br> L: fa957144f15ec603dd548cb787da05b06f0ccd80 | Cross Chain Manager Contract
+Lock Proxy | B: 0xd9b91c5a23e902f39d80593ab5233dfa16a6365c </br> L: 5c36a616fa3d23b53a59809df302e9235a1cb9d9 | The lock proxy bridge contract hash for asset not implementing the "lock" and "unlock" logic to do cross chain tx
 
 
 ## Note 
